@@ -34,8 +34,9 @@ We use **Postman** to test all APIs.
 ```json
 { "error": "Access denied" }
 ```
-
+![alt text](public/img/gotoprofile.jpg)
 ---
+
 
 ### **b. Register**
 - **Endpoint:** `POST /api/auth/register`
